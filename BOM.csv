@@ -1,0 +1,30 @@
+Item,Purpose,Quantity,Unit Price (USD),Total Price (USD),Source,Link
+ESP32 C3,Main microcontroller,1,$ 4.70,$ 4.70,Amazon,https://amzn.in/d/0a4KutVx
+HC-SR04 Ultrasonic Sensor,Obstacle Detection (head & bottom & stair case level),3,$ 1.04,$ 3.12,Amazon,https://amzn.in/d/045kcxsp
+Vibration Motor,Haptic alert feedback,2,$ 0.26,$ 0.52,Amazon,https://amzn.in/d/0doxoT5u
+Speaker,Audio Alerts,1,$ 1.15,$ 1.15,Amazon,https://amzn.in/d/04mXR18p
+Digital Amplifier Module with Volume Control Potentiometer,Audio Amplification,1,$ 2.47,$ 2.47,Amazon,https://amzn.in/d/0gJkSwCg
+Water Sensor Module,Detects Puddles At Base,1,$ 0.47,$ 0.47,Amazon,https://amzn.in/d/0027NZvA
+GPS Module (NEO-6M),Location Tracking,1,$ 4.33,$ 4.33,Amazon,https://amzn.in/d/0b3qNDnb
+MPU 6050,Motion Tracking,1,$ 2.61,$ 2.61,Amazon,https://amzn.in/d/01GiuhjM
+Light Sensor (LDR),Auto Night LED Control,1,$ 0.87,$ 0.87,Amazon,https://amzn.in/d/056LfmlJ
+Li-ion Battery (18650),Power Supply,4,$ 2.08,$ 4.16,Amazon,https://amzn.in/d/06IEj43l
+Li-ion Battery (18650) Holder,Holding the Battery,1,,,3d Printer,
+TP4056 Charging Module,Battery Charging & Protection,1,$ 0.58,$ 0.58,Amazon,https://amzn.in/d/08qRZF8B
+3.3v Voltage Regulator,Regulating Voltage,1,$ 0.17,$ 0.17,Amazon,https://amzn.in/d/0iC7ZcRH
+DFPlayer Mini MP 3 Module,Voice Feedback System,1,$ 2.72,$ 2.72,Amazon,https://amzn.in/d/01TV4Z7P
+Switch (Power),Turn device ON/OFF,1,$ 0.12,$ 0.12,Amazon,https://amzn.in/d/0dWL1L79
+Micro SD Card,Storage,4 Gb,$ 1.87,$ 1.87,Amazon,https://amzn.in/d/0cj7eLT4
+USB to Micro USB Cable,Charging Batteries and Transferring Data,1,$ 0.62,$ 0.62,Amazon,https://amzn.in/d/0ivAUE8Z
+Male to Male Jumper Wires,Circuit Prototyping,1 Set (40Pc),$ 1.04,$ 1.04,Amazon,https://amzn.in/d/06kV8bPE
+Male to Female Jumper Wires,Component Bridging,1 Set (40Pc),$ 0.72,$ 0.72,Amazon,https://amzn.in/d/08pESkNX
+Female to Female Jumper Wires,Circuit Prototyping,1 Set (40Pc),$ 0.71,$ 0.71,Amazon,https://amzn.in/d/0bVLYfWm
+Breadboard 830 Points,Component Connection,1 Set,$ 1.04,$ 1.04,Amazon,https://amzn.in/d/06VyBYyV
+Resistor 220/330/1K/2K ohm,Limit Circuit,15,$ 1.05,$ 1.05,Owned,
+Safety Light,For User Safety,1 meter,$ 2.08,$ 2.08,Amazon,https://amzn.in/d/0cTXC8uM
+Red LED,Visual Indicator,1,$ 0.03,$ 0.03,Amazon,https://amzn.in/d/0bdBQflw
+SOS Button,Emergency alert trigger,1,$ 0.21,$ 0.21,Owned,
+Stick Body,Holds All Components,1,,,3d Printer,
+ITEM PRICE,,,,$ 37.36,,
+SHIPPING PRICE,,,,$ 2.64,,
+GRAND TOTAL,,,,$ 40,,
