@@ -1,6 +1,6 @@
 Empowering Independence Through Intelligent Obstacle Detection & Real-Time Feedback.
 <br> </br>
-<img width="1480" height="2100" alt="zine" src="https://github.com/user-attachments/assets/e5b192d8-f0fb-4c80-8066-91fd5ef9d4c5" />
+<img width="1480" height="2100" alt="zine" src="https://github.com/user-attachments/assets/aff96d2d-918c-4570-a108-2287b14d7b2a" />
 
 
 <h1>WHAT Is BlindNav?</h1>
@@ -94,26 +94,22 @@ This arrangement improves weight distribution, simplifies maintenance, allows fu
 
 <h1>CAD</h1>
 
-<img width="800" height="1500" alt="CAD" src="https://github.com/user-attachments/assets/0f54f1e6-f916-4dfc-8b93-7af9278bfb49" />
+<img width="800" height="1500" alt="CAD" src="https://github.com/user-attachments/assets/597a6717-c0dd-4575-9727-78d753682fb3" />
 
-<img width="1200" height="700" alt="Stick" src="https://github.com/user-attachments/assets/cb76e6ef-fa42-4ca1-a4a5-02952f0f429d" />
+<img width="1200" height="700" alt="Stick" src="https://github.com/user-attachments/assets/727ba505-169a-493e-9fe3-bbc2af17360e" />
 
-<img width="1200" height="700" alt="Handle" src="https://github.com/user-attachments/assets/c80e117f-d640-4043-bab0-c33c70973d84" />
-
-
+<img width="1200" height="700" alt="Handle" src="https://github.com/user-attachments/assets/090fb764-f731-4008-8413-9e5bfb0daa04" />
 
 
 
 <h1>PCB</h1>
-<img width="1200" height="700" alt="BlindNav SCH_Schematic1" src="https://github.com/user-attachments/assets/6e3ff0ab-a040-4ab2-b7c8-fe6cf5b38f4e" />
-
-
+<img width="1200" height="700" alt="BlindNav_SCH_Schematic" src="https://github.com/user-attachments/assets/10419893-dc96-46cf-a17a-af723d9f3d7e" />
 
 
 
 <h1>Wiring Diagram</h1>
+<img width="600" height="800" alt="Wiring_Diagram" src="https://github.com/user-attachments/assets/8777a499-3e3d-4094-9235-4c0c089fab21" />
 
-<img width="600" height="800" alt="Wiring_Diagram" src="https://github.com/user-attachments/assets/cc423382-eca4-474c-8f6d-419325fa7d6b" />
 
 
 <h1>BOM List</h1>
